@@ -9,7 +9,7 @@ Remus is a submission to the the [NIST lightweight competition](https://csrc.nis
 - **Kazuhiko Minematsu**, NEC, Japan
 - **[Thomas Peyrin](https://sites.google.com/site/thomaspeyrin/)**, Nanyang Technological University, Singapore
 
-You can contact us on [remus-and-romulus@googlegroups.com](remus-and-romulus@googlegroups.com). 
+You can contact us on [remus-and-romulus@googlegroups.com](mailto:remus-and-romulus@googlegroups.com). 
 
 ## Rationale
 
