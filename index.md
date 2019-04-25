@@ -1,6 +1,6 @@
 # **Remus** Authenticated Encryption 
 
-Remus is a submission to the the [NIST lightweight competition](https://csrc.nist.gov/projects/lightweight-cryptography). 
+Remus is a submission to the the [NIST lightweight competition](https://csrc.nist.gov/projects/lightweight-cryptography). See also his sibling submission [Romulus](https://romulusae.github.io/romulus/) 
 
 ## Team
 
