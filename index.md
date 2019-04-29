@@ -2,6 +2,8 @@ Remus is a submission to the the [NIST lightweight competition](https://csrc.nis
 
 See also his sibling submission [Romulus](https://romulusae.github.io/romulus/) 
 
+![Remus and Romulus](https://github.com/remusae/remus/remus_romulus.png "Remus and Romulus")
+
 # Team
 
 - **[Tetsu Iwata](http://www.nuee.nagoya-u.ac.jp/labs/tiwata/)**, Nagoya University, Japan
