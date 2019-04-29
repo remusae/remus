@@ -1,10 +1,8 @@
-# **Remus** Authenticated Encryption 
-
 Remus is a submission to the the [NIST lightweight competition](https://csrc.nist.gov/projects/lightweight-cryptography). You can find the specifications [here](https://remusae.github.io/remus/Remus.pdf). 
 
 See also his sibling submission [Romulus](https://romulusae.github.io/romulus/) 
 
-## Team
+# Team
 
 - **[Tetsu Iwata](http://www.nuee.nagoya-u.ac.jp/labs/tiwata/)**, Nagoya University, Japan
 - **[Mustafa Khairallah](https://www.mustafa-khairallah.com/)**, Nanyang Technological University, Singapore
@@ -14,33 +12,33 @@ See also his sibling submission [Romulus](https://romulusae.github.io/romulus/)
 You can contact us on [remus-and-romulus@googlegroups.com](mailto:remus-and-romulus@googlegroups.com). 
 
 
-## Features
+# Features
 
 COMING SOON
 
 
-## Rationale
+# Rationale
 
 COMING SOON
 
 
-## Security
+# Security
 
-### Claims
-
-COMING SOON
-
-### Third party analysis
+## Claims
 
 COMING SOON
 
-
-## Performances and implementations
-
-### Hardware
+## Third party analysis
 
 COMING SOON
 
-### Software
+
+# Performances and implementations
+
+## Hardware
+
+COMING SOON
+
+## Software
 
 COMING SOON
