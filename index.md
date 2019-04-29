@@ -2,7 +2,6 @@ Remus is a submission to the the [NIST lightweight competition](https://csrc.nis
 
 See also his sibling submission [Romulus](https://romulusae.github.io/romulus/) 
 
-![Remus and Romulus](https://github.com/romulusae/romulus/blob/master/remus_romulus.png "Remus and Romulus")
 
 # Team
 
