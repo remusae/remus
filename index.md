@@ -1,4 +1,4 @@
-Remus is a submission to the the [NIST lightweight competition](https://csrc.nist.gov/projects/lightweight-cryptography). You can find the specifications [here](https://remusae.github.io/remus/Remus.pdf) and the GitHub page [here](https://github.com/remusae/remus) 
+Remus is a submission to the [NIST lightweight competition](https://csrc.nist.gov/projects/lightweight-cryptography). You can find the specifications [here](https://remusae.github.io/remus/Remus.pdf) and the GitHub page [here](https://github.com/remusae/remus) 
 
 See also his sibling submission [Romulus](https://romulusae.github.io/romulus/) 
 
